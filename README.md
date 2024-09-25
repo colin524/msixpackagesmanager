@@ -5,14 +5,6 @@ A tool to uninstall any MSIX (UWP apps for example) package
 
 For how to use it, scroll down to Usage
 
-FRANCAIS :
-
-Un outil pour desinstaller quasiment n'importe quel package MSIX (apps UWP par example)
-
-### ⚠️ ATTENTION ⚠️ : Cet outil n'est qu'une GUI pour les commandes Remove-Package de PowerShell, ce qui signifie que cet outil peut desinstaller tous les paquets que PowerShell peut desintaller, y compris les dependances ! Vous l'utilisez a vos riques et perils ! (Le createur décline TOUTE responsabilitée en cas de probleme apres la suppression de paquets systemes)
-
-Info : Ce logiciel n'est disponible qu'en anglais
-
 ## Install (WARNING : This tool only works on Windows 10 and onwards)
 
 Method 1 : Get the latest release and unzip the file, then run "MSIXMANGER.exe" 
