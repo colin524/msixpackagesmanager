@@ -23,3 +23,7 @@ Just download the Python file ;) (you can make it an exe trought pyinstaller)
 
 ![image](https://github.com/user-attachments/assets/df24aa91-8f43-450b-b49b-a77c59790d02)
 ![image](https://github.com/user-attachments/assets/e8af39e3-1f34-4415-b6b6-673fbee27523)
+
+## Useless info
+
+Part of this program's creation was assisted by Chat GPT
